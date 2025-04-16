@@ -1,0 +1,18 @@
+#image-container {
+    position: fixed;
+    top: 0.5%;
+    right: 0.5%;
+    transform: translate(-72%, 0.7%);
+    max-width: 720px;
+    max-height: 480px;
+    display: none;
+    border: 2px solid #2c2c2c;
+    border-radius: 10px;
+}
+
+#horse-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border-radius: 10px;
+}
