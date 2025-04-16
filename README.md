@@ -13,6 +13,8 @@
 `vorp_inventory`
 `vorp_menu`
 
+
+*`The image is generated with AI`*
 ![0d52397f-aa49-405b-8ffe-888cdc2eaf63](https://github.com/user-attachments/assets/06c91ae7-f3e8-45dd-96a5-e751ac686382)
 ![horsemap_1](https://github.com/user-attachments/assets/7004b655-f8a8-4407-a983-729091d4ad52)
 ![horsemap_2](https://github.com/user-attachments/assets/b5733274-6404-4c3c-a0d1-94a411f19a3e)
