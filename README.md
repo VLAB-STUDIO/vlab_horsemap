@@ -1,4 +1,4 @@
-`VORP`:vlab_v:﻿﻿﻿ | `RSG` :vlab_x:﻿﻿﻿ 
+`VORP`YES | `RSG` NO
 ﻿
 # **Create a *"horse map"* object and explore all native horse spawn locations.**
 ﻿
