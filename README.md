@@ -8,7 +8,7 @@
  - Add a description for each horse breed, health, stamina, and more to the config.
  - Spawn location blips will be visible on the map for a short time.
  - You can add and/or edit new spawn locations and more via the config file.
-﻿
+
 **DEPENDENCIES:**
 `vorp_inventory`
 `vorp_menu`
